@@ -1,0 +1,6 @@
+Endomorph (Male)
+Endomorph (Female)
+Ectomorph (Male)
+Ectomorph (Female)
+Mesomorph (Male)
+Mesomorph (Female)
